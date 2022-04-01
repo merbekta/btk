@@ -1,0 +1,3 @@
+﻿  Oles.cpp
+C:\Users\merbe\source\repos\BTK\Oles\Oles.cpp(12,9): warning C4101: 'stack': yerel değişken başvurusu kaldırıldı
+  Oles.vcxproj -> C:\Users\merbe\source\repos\BTK\Debug\Oles.exe
